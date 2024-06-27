@@ -1,0 +1,40 @@
+button {
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(122, 122, 122);
+    cursor: pointer;
+    color: white;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.flex-ai-center {
+    align-items: center;
+}
+
+.flex-jc-center {
+    justify-content: center;
+}
+
+.m-b-10 {
+    margin-bottom: 10px;
+}
+
+.m-b-30 {
+    margin-bottom: 30px;
+}
+
+.m-r-10 {
+    margin-right: 30px;
+}
+
+.m-r-30 {
+    margin-right: 30px;
+}

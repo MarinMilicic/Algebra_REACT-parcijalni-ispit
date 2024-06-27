@@ -1,0 +1,15 @@
+.pres-container {
+    border: 1px solid grey;
+    min-width: 400px;
+    padding: 20px 40px;
+}
+
+ul {
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+
+li {
+    border: 1px solid lightgray;
+    padding: 10px;
+}
